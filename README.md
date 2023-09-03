@@ -2,13 +2,6 @@ The Business card represent the info of the company's branding and introduction 
 ![Business Card1](https://github.com/PurviChauhan14/project/assets/143888310/7f032e08-8f40-441e-9acf-9c8728bea048)
 ![bc2](https://github.com/PurviChauhan14/project/assets/143888310/3ac63971-ec6e-4275-86d5-2cca8554abca)
 
-
-
-The Logo of the brand or company represent the work of the company. Here is the logo of the brand representing the collections of X number of clothes.
-
-![logo](https://github.com/PurviChauhan14/project/assets/143888310/608c97db-7737-4d7a-8456-23ec63e38b5d)
-
-
 Poster and flyers have to visually attractive as it is a way of communicating with numbers of people. It is created for public relations and marketing campaigns.
 ![Poster and fillers](https://github.com/PurviChauhan14/project/assets/143888310/c26e75ca-d85f-40d6-901a-8e63db668693)
 
